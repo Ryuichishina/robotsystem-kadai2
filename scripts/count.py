@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
- MODULE_AUTHOR("Ryuichi Ueda");
- MODULE_LICENSE("BSD");
- MODULE_VERSION("0.0.1");
-
 
 
 import rospy
