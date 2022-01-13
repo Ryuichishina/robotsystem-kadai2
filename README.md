@@ -18,6 +18,10 @@
 
 ③$rostopic echo / count      $rostopic echo /twice　をすることでログを見ることが出来る。
 
+# 実行動画
+
+https://youtu.be/5DIqZoR67kQ
+
 
 
 # 参考にさせていただいた動画
