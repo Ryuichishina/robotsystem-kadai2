@@ -2,6 +2,10 @@
 
 
 
+# Copyright (C) 2022 Ryuichi Ueda. All right reserved.
+
+
+
 import rospy
 from std_msgs.msg import Int32
 
